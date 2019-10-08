@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "785530083725",
+    "firebase_url": "https://dishnow-93f65.firebaseio.com",
+    "project_id": "dishnow-93f65",
+    "storage_bucket": "dishnow-93f65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785530083725:android:ee64d6d61ebf0a59",
+        "android_client_info": {
+          "package_name": "com.dishnow.host"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785530083725-jqt53m98kba399j7dklvebfp0ml01dtf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa3vqTRDm-CjQFYLFp7qWVZPbTZRGbCg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785530083725-jqt53m98kba399j7dklvebfp0ml01dtf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

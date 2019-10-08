@@ -1,0 +1,21 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Dishnowhost' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+	pod 'react-native-onesignal',
+    :path => "../node_modules/react-native-onesignal/react-native-onesignal.podspec",
+    :inhibit_warnings => true
+
+  pod 'react-native-webview', :path => '../node_modules/react-native-webview'
+
+  pod 'RNFastImage', :path => '../node_modules/react-native-fast-image'
+
+  pod 'react-native-fast-image', :path => '../node_modules/react-native-fast-image'
+
+  pod 'react-native-cameraroll', :path => '../node_modules/@react-native-community/cameraroll'
+
+  pod 'react-native-image-picker', :path => '../node_modules/react-native-image-picker'
+
+end

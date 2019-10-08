@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/jinwoo/Desktop/studio-dishnow_host-hybrid/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/UIImageView+WebCache.m \
+  /Users/jinwoo/Desktop/studio-dishnow_host-hybrid/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/UIImageView+WebCache.h \
+  /Users/jinwoo/Desktop/studio-dishnow_host-hybrid/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/SDWebImageCompat.h \
+  /Users/jinwoo/Desktop/studio-dishnow_host-hybrid/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/SDWebImageManager.h \
+  /Users/jinwoo/Desktop/studio-dishnow_host-hybrid/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/SDWebImageOperation.h \
+  /Users/jinwoo/Desktop/studio-dishnow_host-hybrid/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/SDImageCacheDefine.h \
+  /Users/jinwoo/Desktop/studio-dishnow_host-hybrid/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/SDWebImageDefine.h \
+  /Users/jinwoo/Desktop/studio-dishnow_host-hybrid/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/SDImageLoader.h \
+  /Users/jinwoo/Desktop/studio-dishnow_host-hybrid/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/SDImageTransformer.h \
+  /Users/jinwoo/Desktop/studio-dishnow_host-hybrid/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/UIImage+Transform.h \
+  /Users/jinwoo/Desktop/studio-dishnow_host-hybrid/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/SDWebImageCacheKeyFilter.h \
+  /Users/jinwoo/Desktop/studio-dishnow_host-hybrid/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/SDWebImageCacheSerializer.h \
+  /Users/jinwoo/Desktop/studio-dishnow_host-hybrid/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/UIView+WebCacheOperation.h \
+  /Users/jinwoo/Desktop/studio-dishnow_host-hybrid/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/UIView+WebCache.h \
+  /Users/jinwoo/Desktop/studio-dishnow_host-hybrid/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/SDWebImageTransition.h \
+  /Users/jinwoo/Desktop/studio-dishnow_host-hybrid/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/SDImageCache.h \
+  /Users/jinwoo/Desktop/studio-dishnow_host-hybrid/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/SDImageCacheConfig.h \
+  /Users/jinwoo/Desktop/studio-dishnow_host-hybrid/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/SDWebImageIndicator.h
